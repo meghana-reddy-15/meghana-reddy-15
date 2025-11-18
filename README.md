@@ -41,7 +41,7 @@ Machine Learning model that predicts the best crop to grow based on soil nutrien
 📫 Connect With Me
 
 📎 LinkedIn:
-[https://www.linkedin.com/in/meghanareddy-kurapati-aa02432a2/]
+[https://www.linkedin.com/in/meghanareddy-kurapati-aa02432a2]
 
 📧 Email:
 [meghanareddy.k2006@gmail.com]
