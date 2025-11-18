@@ -1,16 +1,50 @@
-## Hi there 👋
+👋 Hi, I’m Meghana Reddy Kurapati!
+🎓 Information Science & Engineering Student
+🤖 Aspiring Data Scientist | ML & AI Enthusiast
+📍 Bengaluru, India
+🚀 About Me
 
-<!--
-**meghana-reddy-15/meghana-reddy-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning Machine Learning, Deep Learning & AI
 
-Here are some ideas to get you started:
+📊 Passionate about Data Science, Analytics, NLP & ML model building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Also interested in App development (Android Studio)
+
+🎯 Goal: To become a skilled ML Engineer / Data Scientist
+
+🛠️ Skills & Tools
+Programming
+Python
+SQL
+Java (Basics)
+Machine Learning & Data Science
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-Learn
+Jupyter Notebook
+AI & Deep Learning (Learning)
+PyTorch
+HuggingFace
+Tools
+Git & GitHub
+Android Studio
+
+📂 Featured Projects
+🌾 Crop Recommendation System
+
+Machine Learning model that predicts the best crop to grow based on soil nutrients & weather conditions.
+🔗 Repository:
+[https://github.com/meghana-reddy-15/crop-recommendation-system]
+
+📫 Connect With Me
+
+📎 LinkedIn:
+[https://www.linkedin.com/in/meghanareddy-kurapati-aa02432a2/]
+
+📧 Email:
+[meghanareddy.k2006@gmail.com]
+
+⭐ Fun Fact
+I love building real-world ML projects and improving my skills every day!
